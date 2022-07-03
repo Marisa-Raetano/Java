@@ -1,0 +1,7 @@
+
+
+class windRadius{
+
+  float windSpeed;
+
+}
